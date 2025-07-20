@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/petstore1/static/css/main.9e4c8b42.css",
+    "main.js": "/petstore1/static/js/main.7e77ead6.js",
+    "static/media/colorfulsparrow.jpeg": "/petstore1/static/media/colorfulsparrow.f0de3f46b25744dafb22.jpeg",
+    "static/media/indiandog.jpeg": "/petstore1/static/media/indiandog.a4fec439eb5e60f86f89.jpeg",
+    "static/media/all.jpg": "/petstore1/static/media/all.9147bd34fcc18ca0bead.jpg",
+    "static/media/persiangreycat.jpeg": "/petstore1/static/media/persiangreycat.5dc036f1f8b56c8a3da6.jpeg",
+    "static/media/indiancat.jpeg": "/petstore1/static/media/indiancat.e5b0aa694593a8f4a636.jpeg",
+    "static/media/persiancat.jpeg": "/petstore1/static/media/persiancat.cc17612cfe48a8fbad14.jpeg",
+    "static/media/colorfullparrot.jpeg": "/petstore1/static/media/colorfullparrot.26f3d21af8c75c8373fc.jpeg",
+    "static/media/persiandog.jpeg": "/petstore1/static/media/persiandog.baf9c38ab654fa8763a5.jpeg",
+    "static/media/goldfish.jpeg": "/petstore1/static/media/goldfish.07df864627ad0309aa2b.jpeg",
+    "static/media/catfish.jpeg": "/petstore1/static/media/catfish.1cb5fdad680ae07cb89b.jpeg",
+    "static/media/greenparrot.jpeg": "/petstore1/static/media/greenparrot.efe710fd6c4c912642c5.jpeg",
+    "static/media/whitepigeon.jpeg": "/petstore1/static/media/whitepigeon.9509fb36116a65883b07.jpeg",
+    "static/media/bathpro.jpg": "/petstore1/static/media/bathpro.290f5eaa12ec2fa8cbab.jpg",
+    "static/media/birdcage.jpg": "/petstore1/static/media/birdcage.e0720247d14732af9297.jpg",
+    "static/media/fishtank.jpg": "/petstore1/static/media/fishtank.099a575b667120bcf7a4.jpg",
+    "index.html": "/petstore1/index.html",
+    "main.9e4c8b42.css.map": "/petstore1/static/css/main.9e4c8b42.css.map",
+    "main.7e77ead6.js.map": "/petstore1/static/js/main.7e77ead6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4c8b42.css",
+    "static/js/main.7e77ead6.js"
+  ]
+}
