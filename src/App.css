@@ -643,7 +643,7 @@ body {
 .container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 70px;
+  gap: 50px;
   padding: 0 10px;
 }
 
